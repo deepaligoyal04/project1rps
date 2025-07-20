@@ -1,10 +1,4 @@
 # project1rps
-A simple Rock Paper Scissors game built using Python.
-Play against the computer in this classic hand game where:
-
-Rock beats Scissors
-
-Scissors beats Paper
-
-Paper beats Rock
-
+A Sudoku Solver project built using Python.
+This project uses Backtracking Algorithm to solve Sudoku puzzles programmatically.
+It helps learners understand recursion, constraints, and how backtracking work
